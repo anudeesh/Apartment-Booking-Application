@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="WebUserControl1.ascx.cs" Inherits="WebsiteFinal.WebUserControl1" %>
+<asp:Label ID="Label1" runat="server" style="text-align: center;display:block;font-size:11px;font-family:Arial;margin-top:30px" Text="Label"></asp:Label>

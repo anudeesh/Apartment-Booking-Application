@@ -1,0 +1,16 @@
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.dll
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.pdb
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.csprojResolveAssemblyReference.cache
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.dll
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.pdb
+G:\Spring Courses\DSoD\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.dll
+G:\Spring Courses\DSoD\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.pdb
+G:\Spring Courses\DSoD\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.csprojResolveAssemblyReference.cache
+G:\Spring Courses\DSoD\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.dll
+G:\Spring Courses\DSoD\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.pdb
+C:\Users\Anudeesh\Desktop\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.dll.config
+C:\Users\Anudeesh\Desktop\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.dll
+C:\Users\Anudeesh\Desktop\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\bin\NewsFocusTryItPage.pdb
+C:\Users\Anudeesh\Desktop\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.csprojResolveAssemblyReference.cache
+C:\Users\Anudeesh\Desktop\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.dll
+C:\Users\Anudeesh\Desktop\CSE598 Assignment 3 Part 3 –Sai Kiran Neelakantam\NewsFocusTryItPage\NewsFocusTryItPage\obj\Debug\NewsFocusTryItPage.pdb

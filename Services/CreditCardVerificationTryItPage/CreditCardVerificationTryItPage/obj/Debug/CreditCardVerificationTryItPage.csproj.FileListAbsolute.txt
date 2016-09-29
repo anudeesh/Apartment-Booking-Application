@@ -1,0 +1,5 @@
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\CreditCardVerificationTryItPage\CreditCardVerificationTryItPage\bin\CreditCardVerificationTryItPage.dll
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\CreditCardVerificationTryItPage\CreditCardVerificationTryItPage\bin\CreditCardVerificationTryItPage.pdb
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\CreditCardVerificationTryItPage\CreditCardVerificationTryItPage\obj\Debug\CreditCardVerificationTryItPage.csprojResolveAssemblyReference.cache
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\CreditCardVerificationTryItPage\CreditCardVerificationTryItPage\obj\Debug\CreditCardVerificationTryItPage.dll
+C:\Users\SAIKIRAN\Documents\Visual Studio 2012\Projects\CreditCardVerificationTryItPage\CreditCardVerificationTryItPage\obj\Debug\CreditCardVerificationTryItPage.pdb

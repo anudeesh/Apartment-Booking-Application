@@ -1,0 +1,5 @@
+c:\users\venu\documents\visual studio 2012\Projects\Apartment\Apartment\bin\Apartment.dll
+c:\users\venu\documents\visual studio 2012\Projects\Apartment\Apartment\bin\Apartment.pdb
+c:\users\venu\documents\visual studio 2012\Projects\Apartment\Apartment\obj\Debug\Apartment.csprojResolveAssemblyReference.cache
+c:\users\venu\documents\visual studio 2012\Projects\Apartment\Apartment\obj\Debug\Apartment.dll
+c:\users\venu\documents\visual studio 2012\Projects\Apartment\Apartment\obj\Debug\Apartment.pdb

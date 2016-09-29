@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Utilities>
+  <Utility>
+    <Title>Carpet Flooring</Title>
+    <Description>New carpet will be replaced with the old carpet for every 3 months</Description>
+    <Price>$150</Price>
+  </Utility>
+  <Utility>
+    <Title>Roach Prevention</Title>
+    <Description>Roaches prevention will be done every alternate week of a month</Description>
+    <Price>$100</Price>
+  </Utility>
+  <Utility>
+    <Title>Laundry</Title>
+    <Description>Laundry card helps you to make use of the washers and dryers present within the apartment society</Description>
+    <Price>$25</Price>
+  </Utility>
+  <Utility>
+    <Title>Recreation Facilities</Title>
+    <Description>Recreation facilities include Gym, Sqimming pool access, game room access.</Description>
+    <Price>$50</Price>
+  </Utility>
+  <Utility>
+    <Title>House Cleaning</Title>
+    <Description>Our house cleaning team will come and clean your house by vacuuming, cleaning bathrooms etc</Description>
+    <Price>$200</Price>
+  </Utility>
+  <Utility>
+    <Title>Internet Facility</Title>
+    <Description>We have connections with two internet providers: Century Link and Cox. You can choose either of it but we will charge same price for both.</Description>
+    <Price>$40</Price>
+  </Utility>
+  <Utility>
+    <Title>Insurance</Title>
+    <Description>We provide insurance to your house for any incidents like theft, fire etc.</Description>
+    <Price>$100</Price>
+  </Utility>
+  <Utility>
+    <Title>Car Parking</Title>
+    <Description>We provide our residents an extra car parking facility for a reasonable price.</Description>
+    <Price>50</Price>
+  </Utility>
+  <Utility>
+    <Title>fgdfg</Title>
+    <Description>dhfgh</Description>
+    <Price>25</Price>
+  </Utility>
+</Utilities>

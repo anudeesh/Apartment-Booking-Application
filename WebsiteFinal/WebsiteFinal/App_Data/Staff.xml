@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<staffs>
+ <staff>
+   <username>anudeesh</username>
+   <password>kx noo}r</password>
+   <name>Anudeesh</name>
+   <lastname>Puppala</lastname>
+   <title>Manager</title>
+ </staff>
+ <staff>
+   <username>sampath</username>
+   <password>}kwzk~r</password>
+   <name>Sampath</name>
+   <lastname>Pendyala</lastname>
+   <title>Clerk</title>
+ </staff>
+</staffs>
